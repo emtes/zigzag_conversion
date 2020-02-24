@@ -13,7 +13,8 @@ And then read line by line: `"PAHNAPLSIIGYIR"`
 Write the code that will take a string and make this conversion given a number of rows:
 
 ```python
-convert(s: str, rows: int) -> str:
+def convert(s: str, rows: int) -> str:
+    pass
 ```
 
 **Example 1:**
