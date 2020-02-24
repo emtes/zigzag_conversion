@@ -13,7 +13,7 @@ And then read line by line: `"PAHNAPLSIIGYIR"`
 Write the code that will take a string and make this conversion given a number of rows:
 
 ```python
-convert(s: str, rows: int) -> str;
+convert(s: str, rows: int) -> str:
 ```
 
 **Example 1:**
@@ -38,5 +38,5 @@ P     I
 ```
 
 ## 
-<sup>**Source:** [Leetcode](https://leetcode.com/problems/zigzag-conversion/)</sup>\n
+<sup>**Source:** [Leetcode](https://leetcode.com/problems/zigzag-conversion/)</sup><br />
 <sup>**Difficulty:** Medium</sup>
